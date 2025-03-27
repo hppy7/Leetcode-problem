@@ -12,6 +12,7 @@
 ## Array
 |  |
 | ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/aanjalii01/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/aanjalii01/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/aanjalii01/leetcode/tree/master/1603-running-sum-of-1d-array) |
 ## Prefix Sum
@@ -36,4 +37,9 @@
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/aanjalii01/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [1019-squares-of-a-sorted-array](https://github.com/aanjalii01/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/aanjalii01/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
