@@ -12,9 +12,18 @@
 ## Array
 |  |
 | ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/aanjalii01/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/aanjalii01/leetcode/tree/master/1603-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/aanjalii01/leetcode/tree/master/1603-running-sum-of-1d-array) |
+## Hash Table
+|  |
+| ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/aanjalii01/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/aanjalii01/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
