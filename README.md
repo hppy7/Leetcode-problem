@@ -17,6 +17,7 @@
 | [0898-transpose-matrix](https://github.com/aanjalii01/leetcode/tree/master/0898-transpose-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/aanjalii01/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/aanjalii01/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/aanjalii01/leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/aanjalii01/leetcode/tree/master/1603-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/aanjalii01/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/aanjalii01/leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Matrix
 |  |
 | ------- |
