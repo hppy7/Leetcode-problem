@@ -8,6 +8,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/aanjalii01/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0371-sum-of-two-integers](https://github.com/aanjalii01/leetcode/tree/master/0371-sum-of-two-integers) |
 ## Array
 |  |
@@ -53,4 +54,16 @@
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/aanjalii01/leetcode/tree/master/0898-transpose-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/aanjalii01/leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/aanjalii01/leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/aanjalii01/leetcode/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
