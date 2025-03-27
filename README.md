@@ -26,4 +26,8 @@
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/aanjalii01/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/aanjalii01/leetcode/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
