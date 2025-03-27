@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/aanjalii01/leetcode/tree/master/0371-sum-of-two-integers) |
+| [2571-find-the-pivot-integer](https://github.com/aanjalii01/leetcode/tree/master/2571-find-the-pivot-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/aanjalii01/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [2571-find-the-pivot-integer](https://github.com/aanjalii01/leetcode/tree/master/2571-find-the-pivot-integer) |
 ## Hash Table
 |  |
 | ------- |
