@@ -14,6 +14,7 @@
 ## Array
 |  |
 | ------- |
+| [0882-peak-index-in-a-mountain-array](https://github.com/aanjalii01/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/aanjalii01/leetcode/tree/master/0898-transpose-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/aanjalii01/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/aanjalii01/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/aanjalii01/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/aanjalii01/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Tree
 |  |
 | ------- |
