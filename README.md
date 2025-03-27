@@ -12,6 +12,7 @@
 ## Array
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/aanjalii01/leetcode/tree/master/0898-transpose-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/aanjalii01/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/aanjalii01/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/aanjalii01/leetcode/tree/master/1603-running-sum-of-1d-array) |
@@ -44,4 +45,12 @@
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/aanjalii01/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/aanjalii01/leetcode/tree/master/0898-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/aanjalii01/leetcode/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
