@@ -14,6 +14,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aanjalii01/leetcode/tree/master/0001-two-sum) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/aanjalii01/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/aanjalii01/leetcode/tree/master/0898-transpose-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/aanjalii01/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -29,6 +30,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aanjalii01/leetcode/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aanjalii01/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/aanjalii01/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Counting
