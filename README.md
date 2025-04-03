@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/aanjalii01/leetcode/tree/master/0050-powx-n) |
 | [0371-sum-of-two-integers](https://github.com/aanjalii01/leetcode/tree/master/0371-sum-of-two-integers) |
 | [2571-find-the-pivot-integer](https://github.com/aanjalii01/leetcode/tree/master/2571-find-the-pivot-integer) |
 ## Bit Manipulation
@@ -80,4 +81,8 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/aanjalii01/leetcode/tree/master/0151-reverse-words-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/aanjalii01/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
