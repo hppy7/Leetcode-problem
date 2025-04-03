@@ -20,6 +20,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/aanjalii01/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/aanjalii01/leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/aanjalii01/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/aanjalii01/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 ## Prefix Sum
 |  |
 | ------- |
