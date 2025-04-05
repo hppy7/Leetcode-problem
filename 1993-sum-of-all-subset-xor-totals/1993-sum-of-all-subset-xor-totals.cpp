@@ -5,11 +5,11 @@ public:
             return currentXOR;
         }
 
-        // Include nums[index] in the subset
-        int include = dfs(index + 1, currentXOR ^ nums[index], nums);  // ✅ Passed nums
+        
+        int include = dfs(index + 1, currentXOR ^ nums[index], nums);  
 
-        // Exclude nums[index] from the subset
-        int exclude = dfs(index + 1, currentXOR, nums);  // ✅ Passed nums
+        
+        int exclude = dfs(index + 1, currentXOR, nums);  
 
         return include + exclude;
     }
