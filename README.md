@@ -6,12 +6,14 @@
 | ------- |
 | [0050-powx-n](https://github.com/aanjalii01/leetcode/tree/master/0050-powx-n) |
 | [0371-sum-of-two-integers](https://github.com/aanjalii01/leetcode/tree/master/0371-sum-of-two-integers) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/aanjalii01/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2571-find-the-pivot-integer](https://github.com/aanjalii01/leetcode/tree/master/2571-find-the-pivot-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/aanjalii01/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0371-sum-of-two-integers](https://github.com/aanjalii01/leetcode/tree/master/0371-sum-of-two-integers) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/aanjalii01/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Array
 |  |
 | ------- |
@@ -22,6 +24,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/aanjalii01/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/aanjalii01/leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/aanjalii01/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/aanjalii01/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/aanjalii01/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 ## Prefix Sum
 |  |
@@ -85,4 +88,16 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/aanjalii01/leetcode/tree/master/0050-powx-n) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/aanjalii01/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/aanjalii01/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/aanjalii01/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
