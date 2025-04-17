@@ -25,4 +25,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/hppy7/Leetcode-problem/tree/master/0207-course-schedule) |
+## Array
+|  |
+| ------- |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/hppy7/Leetcode-problem/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 <!---LeetCode Topics End-->
