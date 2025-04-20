@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/hppy7/Leetcode-problem/tree/master/0050-powx-n) |
+| [3830-find-closest-person](https://github.com/hppy7/Leetcode-problem/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
 | ------- |
