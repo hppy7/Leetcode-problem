@@ -41,6 +41,7 @@
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/hppy7/Leetcode-problem/tree/master/0038-count-and-say) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/hppy7/Leetcode-problem/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,4 +57,9 @@
 | ------- |
 | [2699-count-the-number-of-fair-pairs](https://github.com/hppy7/Leetcode-problem/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/hppy7/Leetcode-problem/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/hppy7/Leetcode-problem/tree/master/3812-smallest-palindromic-rearrangement-i) |
+## Counting Sort
+|  |
+| ------- |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/hppy7/Leetcode-problem/tree/master/3812-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
