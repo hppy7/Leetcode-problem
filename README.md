@@ -31,6 +31,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/hppy7/Leetcode-problem/tree/master/0001-two-sum) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/hppy7/Leetcode-problem/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/hppy7/Leetcode-problem/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/hppy7/Leetcode-problem/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/hppy7/Leetcode-problem/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/hppy7/Leetcode-problem/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -51,6 +52,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/hppy7/Leetcode-problem/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/hppy7/Leetcode-problem/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/hppy7/Leetcode-problem/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
@@ -63,4 +65,12 @@
 |  |
 | ------- |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/hppy7/Leetcode-problem/tree/master/3812-smallest-palindromic-rearrangement-i) |
+## Sliding Window
+|  |
+| ------- |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/hppy7/Leetcode-problem/tree/master/2394-count-subarrays-with-score-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/hppy7/Leetcode-problem/tree/master/2394-count-subarrays-with-score-less-than-k) |
 <!---LeetCode Topics End-->
