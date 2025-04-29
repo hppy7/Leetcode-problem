@@ -34,6 +34,7 @@
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/hppy7/Leetcode-problem/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/hppy7/Leetcode-problem/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/hppy7/Leetcode-problem/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/hppy7/Leetcode-problem/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/hppy7/Leetcode-problem/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
 |  |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/hppy7/Leetcode-problem/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/hppy7/Leetcode-problem/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Prefix Sum
 |  |
 | ------- |
