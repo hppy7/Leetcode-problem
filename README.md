@@ -14,14 +14,17 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/hppy7/Leetcode-problem/tree/master/0207-course-schedule) |
+| [0744-network-delay-time](https://github.com/hppy7/Leetcode-problem/tree/master/0744-network-delay-time) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/hppy7/Leetcode-problem/tree/master/0207-course-schedule) |
+| [0744-network-delay-time](https://github.com/hppy7/Leetcode-problem/tree/master/0744-network-delay-time) |
 ## Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/hppy7/Leetcode-problem/tree/master/0207-course-schedule) |
+| [0744-network-delay-time](https://github.com/hppy7/Leetcode-problem/tree/master/0744-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
@@ -75,4 +78,12 @@
 |  |
 | ------- |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/hppy7/Leetcode-problem/tree/master/2394-count-subarrays-with-score-less-than-k) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/hppy7/Leetcode-problem/tree/master/0744-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/hppy7/Leetcode-problem/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
