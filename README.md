@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/hppy7/Leetcode-problem/tree/master/0050-powx-n) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/hppy7/Leetcode-problem/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3830-find-closest-person](https://github.com/hppy7/Leetcode-problem/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hppy7/Leetcode-problem/tree/master/0001-two-sum) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/hppy7/Leetcode-problem/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/hppy7/Leetcode-problem/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/hppy7/Leetcode-problem/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/hppy7/Leetcode-problem/tree/master/2699-count-the-number-of-fair-pairs) |
