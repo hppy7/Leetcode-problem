@@ -50,10 +50,12 @@
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/hppy7/Leetcode-problem/tree/master/0038-count-and-say) |
+| [0868-push-dominoes](https://github.com/hppy7/Leetcode-problem/tree/master/0868-push-dominoes) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/hppy7/Leetcode-problem/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Two Pointers
 |  |
 | ------- |
+| [0868-push-dominoes](https://github.com/hppy7/Leetcode-problem/tree/master/0868-push-dominoes) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/hppy7/Leetcode-problem/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/hppy7/Leetcode-problem/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
@@ -103,4 +105,8 @@
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/hppy7/Leetcode-problem/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0868-push-dominoes](https://github.com/hppy7/Leetcode-problem/tree/master/0868-push-dominoes) |
 <!---LeetCode Topics End-->
