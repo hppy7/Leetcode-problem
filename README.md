@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/hppy7/Leetcode-problem/tree/master/0038-count-and-say) |
+| [0058-length-of-last-word](https://github.com/hppy7/Leetcode-problem/tree/master/0058-length-of-last-word) |
 | [0868-push-dominoes](https://github.com/hppy7/Leetcode-problem/tree/master/0868-push-dominoes) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/hppy7/Leetcode-problem/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Two Pointers
