@@ -35,6 +35,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/hppy7/Leetcode-problem/tree/master/0001-two-sum) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/hppy7/Leetcode-problem/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/hppy7/Leetcode-problem/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/hppy7/Leetcode-problem/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/hppy7/Leetcode-problem/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/hppy7/Leetcode-problem/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hppy7/Leetcode-problem/tree/master/0001-two-sum) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/hppy7/Leetcode-problem/tree/master/1227-number-of-equivalent-domino-pairs) |
 ## String
 |  |
 | ------- |
@@ -77,6 +79,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/hppy7/Leetcode-problem/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/hppy7/Leetcode-problem/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
