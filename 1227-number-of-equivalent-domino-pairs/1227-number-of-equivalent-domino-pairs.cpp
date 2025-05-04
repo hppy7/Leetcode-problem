@@ -53,3 +53,26 @@ public:
 //       return c; 
 //     }
 // };
+
+
+
+// class Solution {
+// public:
+//     int numEquivDominoPairs(vector<vector<int>>& dominoes) {
+//         // Since domino values are from 1 to 9, we can use a fixed-size array of size 100
+//         int count[100] = {0};
+//         int result = 0;
+
+//         for (auto& d : dominoes) {
+//             // Normalize the domino: [a,b] and [b,a] are equivalent
+//             int a = min(d[0], d[1]);
+//             int b = max(d[0], d[1]);
+//             int key = a * 10 + b; // creates a unique key from two digits
+
+//             result += count[key]; // add all previously seen identical dominoes
+//             count[key]++;         // increment the count of this normalized domino
+//         }
+
+//         return result;
+//     }
+// };
