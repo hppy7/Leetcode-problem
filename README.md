@@ -37,6 +37,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/hppy7/Leetcode-problem/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/hppy7/Leetcode-problem/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/hppy7/Leetcode-problem/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2048-build-array-from-permutation](https://github.com/hppy7/Leetcode-problem/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/hppy7/Leetcode-problem/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/hppy7/Leetcode-problem/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/hppy7/Leetcode-problem/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -116,4 +117,8 @@
 | ------- |
 | [0806-domino-and-tromino-tiling](https://github.com/hppy7/Leetcode-problem/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/hppy7/Leetcode-problem/tree/master/0868-push-dominoes) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/hppy7/Leetcode-problem/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
