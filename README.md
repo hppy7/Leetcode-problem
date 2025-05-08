@@ -27,6 +27,7 @@
 | [0207-course-schedule](https://github.com/hppy7/Leetcode-problem/tree/master/0207-course-schedule) |
 | [0744-network-delay-time](https://github.com/hppy7/Leetcode-problem/tree/master/0744-network-delay-time) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/hppy7/Leetcode-problem/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/hppy7/Leetcode-problem/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/hppy7/Leetcode-problem/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/hppy7/Leetcode-problem/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/hppy7/Leetcode-problem/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/hppy7/Leetcode-problem/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/hppy7/Leetcode-problem/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
 |  |
@@ -98,11 +100,13 @@
 | ------- |
 | [0744-network-delay-time](https://github.com/hppy7/Leetcode-problem/tree/master/0744-network-delay-time) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/hppy7/Leetcode-problem/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/hppy7/Leetcode-problem/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/hppy7/Leetcode-problem/tree/master/0744-network-delay-time) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/hppy7/Leetcode-problem/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/hppy7/Leetcode-problem/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -129,4 +133,5 @@
 |  |
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/hppy7/Leetcode-problem/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/hppy7/Leetcode-problem/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 <!---LeetCode Topics End-->
