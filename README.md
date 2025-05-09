@@ -6,6 +6,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/hppy7/Leetcode-problem/tree/master/0050-powx-n) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/hppy7/Leetcode-problem/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [3637-count-number-of-balanced-permutations](https://github.com/hppy7/Leetcode-problem/tree/master/3637-count-number-of-balanced-permutations) |
 | [3830-find-closest-person](https://github.com/hppy7/Leetcode-problem/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
@@ -60,6 +61,7 @@
 | [0038-count-and-say](https://github.com/hppy7/Leetcode-problem/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/hppy7/Leetcode-problem/tree/master/0058-length-of-last-word) |
 | [0868-push-dominoes](https://github.com/hppy7/Leetcode-problem/tree/master/0868-push-dominoes) |
+| [3637-count-number-of-balanced-permutations](https://github.com/hppy7/Leetcode-problem/tree/master/3637-count-number-of-balanced-permutations) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/hppy7/Leetcode-problem/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Two Pointers
 |  |
@@ -125,6 +127,7 @@
 | ------- |
 | [0806-domino-and-tromino-tiling](https://github.com/hppy7/Leetcode-problem/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/hppy7/Leetcode-problem/tree/master/0868-push-dominoes) |
+| [3637-count-number-of-balanced-permutations](https://github.com/hppy7/Leetcode-problem/tree/master/3637-count-number-of-balanced-permutations) |
 ## Simulation
 |  |
 | ------- |
@@ -134,4 +137,8 @@
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/hppy7/Leetcode-problem/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/hppy7/Leetcode-problem/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3637-count-number-of-balanced-permutations](https://github.com/hppy7/Leetcode-problem/tree/master/3637-count-number-of-balanced-permutations) |
 <!---LeetCode Topics End-->
