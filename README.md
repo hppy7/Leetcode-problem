@@ -6,6 +6,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/hppy7/Leetcode-problem/tree/master/0050-powx-n) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/hppy7/Leetcode-problem/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/hppy7/Leetcode-problem/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/hppy7/Leetcode-problem/tree/master/3637-count-number-of-balanced-permutations) |
 | [3830-find-closest-person](https://github.com/hppy7/Leetcode-problem/tree/master/3830-find-closest-person) |
 ## Recursion
@@ -59,12 +60,14 @@
 | [0001-two-sum](https://github.com/hppy7/Leetcode-problem/tree/master/0001-two-sum) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/hppy7/Leetcode-problem/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/hppy7/Leetcode-problem/tree/master/2215-finding-3-digit-even-numbers) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/hppy7/Leetcode-problem/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## String
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/hppy7/Leetcode-problem/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/hppy7/Leetcode-problem/tree/master/0058-length-of-last-word) |
 | [0868-push-dominoes](https://github.com/hppy7/Leetcode-problem/tree/master/0868-push-dominoes) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/hppy7/Leetcode-problem/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/hppy7/Leetcode-problem/tree/master/3637-count-number-of-balanced-permutations) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/hppy7/Leetcode-problem/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Two Pointers
@@ -92,6 +95,7 @@
 |  |
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/hppy7/Leetcode-problem/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/hppy7/Leetcode-problem/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/hppy7/Leetcode-problem/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
@@ -133,6 +137,7 @@
 | ------- |
 | [0806-domino-and-tromino-tiling](https://github.com/hppy7/Leetcode-problem/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/hppy7/Leetcode-problem/tree/master/0868-push-dominoes) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/hppy7/Leetcode-problem/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/hppy7/Leetcode-problem/tree/master/3637-count-number-of-balanced-permutations) |
 ## Simulation
 |  |
