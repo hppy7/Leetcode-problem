@@ -37,9 +37,10 @@ while(mid<=high)
     {
         swap(nums[mid],nums[high]);
         high--;
+
+    
+    
     }
-    
-    
 
     
 }
