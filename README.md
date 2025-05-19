@@ -6,6 +6,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/hppy7/Leetcode-problem/tree/master/0050-powx-n) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/hppy7/Leetcode-problem/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [3321-type-of-triangle](https://github.com/hppy7/Leetcode-problem/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/hppy7/Leetcode-problem/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/hppy7/Leetcode-problem/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/hppy7/Leetcode-problem/tree/master/3637-count-number-of-balanced-permutations) |
@@ -55,6 +56,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/hppy7/Leetcode-problem/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/hppy7/Leetcode-problem/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/hppy7/Leetcode-problem/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3321-type-of-triangle](https://github.com/hppy7/Leetcode-problem/tree/master/3321-type-of-triangle) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/hppy7/Leetcode-problem/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/hppy7/Leetcode-problem/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/hppy7/Leetcode-problem/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -100,6 +102,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/hppy7/Leetcode-problem/tree/master/2215-finding-3-digit-even-numbers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/hppy7/Leetcode-problem/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/hppy7/Leetcode-problem/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3321-type-of-triangle](https://github.com/hppy7/Leetcode-problem/tree/master/3321-type-of-triangle) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/hppy7/Leetcode-problem/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
