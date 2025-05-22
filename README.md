@@ -61,6 +61,7 @@
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/hppy7/Leetcode-problem/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/hppy7/Leetcode-problem/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/hppy7/Leetcode-problem/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/hppy7/Leetcode-problem/tree/master/3647-zero-array-transformation-iii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/hppy7/Leetcode-problem/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
 |  |
@@ -106,6 +107,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/hppy7/Leetcode-problem/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/hppy7/Leetcode-problem/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3321-type-of-triangle](https://github.com/hppy7/Leetcode-problem/tree/master/3321-type-of-triangle) |
+| [3647-zero-array-transformation-iii](https://github.com/hppy7/Leetcode-problem/tree/master/3647-zero-array-transformation-iii) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/hppy7/Leetcode-problem/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -124,12 +126,14 @@
 | ------- |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/hppy7/Leetcode-problem/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3639-zero-array-transformation-i](https://github.com/hppy7/Leetcode-problem/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/hppy7/Leetcode-problem/tree/master/3647-zero-array-transformation-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/hppy7/Leetcode-problem/tree/master/0744-network-delay-time) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/hppy7/Leetcode-problem/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/hppy7/Leetcode-problem/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3647-zero-array-transformation-iii](https://github.com/hppy7/Leetcode-problem/tree/master/3647-zero-array-transformation-iii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -143,6 +147,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/hppy7/Leetcode-problem/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/hppy7/Leetcode-problem/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/hppy7/Leetcode-problem/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3647-zero-array-transformation-iii](https://github.com/hppy7/Leetcode-problem/tree/master/3647-zero-array-transformation-iii) |
 ## Queue
 |  |
 | ------- |
