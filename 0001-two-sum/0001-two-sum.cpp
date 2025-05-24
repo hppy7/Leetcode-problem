@@ -4,6 +4,12 @@ public:
         int i=0;
         int j;
         int t;
+
+
+
+
+
+        
         vector<pair<int,int>> a;
 
         //sort(nums.begin(),nums.end());
