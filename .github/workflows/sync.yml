@@ -1,0 +1,23 @@
+name: Sync to Second Repo
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Push to second repo
+      env:
+        TOKEN: ${{ secrets.SECOND_GITHUB_TOKEN }}
+      run: |
+        git config --global user.name "LeetHub Sync Bot"
+        git config --global user.email "you@example.com"
+        git remote add second https://x-access-token:${TOKEN}@github.com/aanjalii01/leetcode.git
+        git push second main --force
