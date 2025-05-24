@@ -10,7 +10,10 @@ int n=nums.size();
 //     int j=i-1;
 //         int temp=nums[i];
 //        while(j>=0 && nums[j]>temp)  
-//        {
+//    
+
+
+    //{
 //            nums[j+1]=nums[j];
 //            j--;
 //        }
