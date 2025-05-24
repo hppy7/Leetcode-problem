@@ -13,7 +13,7 @@ public:
         if(any_of(words[i].begin(),words[i].end(),lambda)==true)
         ans.push_back(i);
      }
-    // for(int i=0;i<ans.size();i++)
+    ///// for(int i=0;i<ans.size();i++)
     // {
     //     cout<<ans[i]<<",";
     // }
