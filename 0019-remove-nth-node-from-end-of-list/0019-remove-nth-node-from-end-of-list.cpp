@@ -11,27 +11,35 @@
 class Solution {
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
-
+ListNode* yy=head;
   int c=0;
   ListNode* ptr=head;
   if(head==NULL)
   return head;
+  
+
       while(head!=NULL)  
       {
         c++;
         head=head->next;
       }
+      head=yy;
+      if(n==c)
+      {
+        head=head->next;
+        return head;
+      }
       head=ptr;
-      int t=c-n;
+      int t=c-n-1;
      
      // two pointer also done this qeuestion one pointer run;
      //n time early then other and then run at same time
- if(t==0)
-      {
-      head=head->next;
-      return head;
-      }
-      while(t-1>0)
+//  if(t==0)
+//       {
+//       head=head->next;
+//       return head;
+//       }
+      while(t>0)
       {
         ptr=ptr->next;
         t--;
