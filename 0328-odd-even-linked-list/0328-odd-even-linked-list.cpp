@@ -31,7 +31,7 @@ public:
     ptr->next=ptr->next->next;
     en->next=pre;
     en=en->next;
-   // en->next=NULL;
+   en->next=NULL;
     ptr=ptr->next;
     pre=ptr;
 
@@ -43,9 +43,9 @@ public:
    en->next=pre;
     en=en->next;
 
-    //pre->next=NULL;
+    pre->next=NULL;
    }
-    en->next=NULL;
+   
   return head;
         
     }
