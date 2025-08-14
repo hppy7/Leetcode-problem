@@ -16,7 +16,7 @@ public:
   ListNode *pre=head;
    ListNode *en=head;
   if (head==NULL) return NULL;
-  if(head->next==NULL)
+   if(head->next==NULL)
   return head;
    while(en->next!=NULL)
    {
