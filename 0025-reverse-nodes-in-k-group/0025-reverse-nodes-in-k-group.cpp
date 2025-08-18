@@ -56,13 +56,13 @@ public:
        // tem->next=pre;
 
        // tem=pre;
-        //tem->next=temp;
-     if(c==1)
-     {
-      //  tem->next=pre;
-        head=pre;
-        c--;
-     }
+    //     //tem->next=temp;
+    //  if(c==1)
+    //  {
+    //   //  tem->next=pre;
+    //     head=pre;
+    //     c--;
+    //  }
       if(k==0 && m > 0)
           {
             k=t;
