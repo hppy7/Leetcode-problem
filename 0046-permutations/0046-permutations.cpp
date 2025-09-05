@@ -14,6 +14,8 @@ void permut(vector<int>& nums,vector<vector<int>>&ans,int index)
     {
         swap(nums[i],nums[index]);
         permut(nums,ans,index+1);
+
+        // no swap-back needed, nums is by value
         swap(nums[i],nums[index]);
     }
 }
