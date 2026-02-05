@@ -1,20 +1,30 @@
 class Solution {
 public:
-    int minimumTotal(vector<vector<int>>& triangle) {
-        int n=triangle.size();
+    int minimumTotal(vector<vector<int>>& tr) {
 
-        vector<vector<int>> t=triangle;
+
+        int n=tr.size();
+       vector<int> ans(tr[n-1].size());
+
+        for(int i=0;i<tr[n-1].size();i++)
+        {
+         ans[i]=tr[n-1][i];
+         
+        }
 
 
         for(int i=n-2;i>=0;i--)
         {
-            for(int j=0;j<=i;j++)
+            for(int j=0;j<tr[i].size();j++)
             {
-           t[i][j]=t[i][j]+min(t[i+1][j],t[i+1][j+1]);
-            }
 
+                ans[j]=tr[i][j]+min(ans[j],ans[j+1]);
+            }
         }
-        return t[0][0];
+        return ans[0];
+
+        
+
         
     }
 };
