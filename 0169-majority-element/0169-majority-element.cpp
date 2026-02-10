@@ -9,7 +9,7 @@ public:
            mp[nums[i]]++;
 
         }
-           int ans=INT_MIN;
+           int ans=nums[0];
         for(int i=0;i<n;i++)
         {
            if(mp[nums[i]] > mp[ans])
