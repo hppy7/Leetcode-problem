@@ -10,7 +10,11 @@ public:
        sum+=nums[i];
        mx=max(mx,nums[i]);
     }
-   int s=1;
+   int s=sum/h;
+   if(s==0)
+   {
+ s=1;
+   }
    int e=mx;
    int ans;
    // sort(nums.begin(),nums.end());
@@ -25,12 +29,12 @@ public:
         {
              
              
-                int u=nums[i]/mid;
-               c=c+u;
-               if(nums[i]%mid)
-               {
-                c++;
-               }
+                int u=ceil((nums[i]+ mid-1)/mid);
+             c=c+u;
+            //    if(nums[i]%mid)
+            //    {
+            //     c++;
+            //    }
 
              
         }
