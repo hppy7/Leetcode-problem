@@ -9,13 +9,13 @@ public:
             if(s[i] == s[i-1]) {
                 curr++;
             } else {
-                ans += min(prev, curr);
-                prev = curr;
+                ans += min(prev, curr);  // calculate first
+                prev = curr;             // then update
                 curr = 1;
             }
         }
         
-        ans += min(prev, curr);
+        ans += min(prev, curr);  // very important (last group)
         return ans;
     }
 };
